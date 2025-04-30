@@ -1,0 +1,42 @@
+<tv generator-info-name="custom-epg">
+  <channel id="m1.hu">
+    <display-name>M1</display-name>
+    <icon src="/mnt/plexepg/m1.png" />
+  </channel>
+  <channel id="m2.hu">
+    <display-name>M2</display-name>
+    <icon src="/mnt/plexepg/m2.png" />
+  </channel>
+  <channel id="m4.hu">
+    <display-name>M4</display-name>
+    <icon src="/mnt/plexepg/m4.png" />
+  </channel>
+  <channel id="m5.hu">
+    <display-name>M5</display-name>
+    <icon src="/mnt/plexepg/m5.png" />
+  </channel>
+  <channel id="duna.hu">
+    <display-name>Duna</display-name>
+    <icon src="/mnt/plexepg/duna.png" />
+  </channel>
+  <channel id="dunaworld2.hu">
+    <display-name>Duna World</display-name>
+    <icon src="/mnt/plexepg/duna-world.png" />
+  </channel>
+  <channel id="tv2.hu">
+    <display-name>TV2</display-name>
+    <icon src="/mnt/plexepg/tv2.png" />
+  </channel>
+  <channel id="rtl.hu">
+    <display-name>RTL</display-name>
+    <icon src="/mnt/plexepg/rtl.png" />
+  </channel>
+  <channel id="max4.hu">
+    <display-name>MAX4</display-name>
+    <icon src="/mnt/plexepg/max4.png" />
+  </channel>
+  <channel id="spektrumhome.hu">
+    <display-name>Spektrum Home</display-name>
+    <icon src="/mnt/plexepg/spektrum-home.png" />
+  </channel>
+</tv>
